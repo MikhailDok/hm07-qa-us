@@ -11,8 +11,7 @@ const requestBody = {
             "id": 4,
             "quantity": 5
         }
- 	]
-}
+ 	]}
 test('status should be 200', async () => {
 	let actualStatus;
     try {
